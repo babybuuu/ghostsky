@@ -1,0 +1,14 @@
+name: de4js
+description: JavaScript Deobfuscator and Unpacker
+version: 1.1.0
+author: Zzbaivong
+author_email: Zzbaivong@gmail.com
+url: https://baivong.github.io
+baseurl: /de4js
+license: MIT
+
+theme: jekyll-theme-hacker
+show_downloads: false
+google_analytics: UA-106940288-1
+sass:
+  style: compressed
